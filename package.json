@@ -1,0 +1,19 @@
+{
+  "name": "evmos_transaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/wallet": "^5.7.0",
+    "@evmos/transactions": "0.2.12",
+    "@hanchon/evmos-ts-wallet": "^0.2.0",
+    "@tharsis/address-converter": "^0.1.8",
+    "ethers": "^6.0.5",
+    "web3": "^1.8.2"
+  }
+}
